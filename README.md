@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-  <img src="https://static.wixstatic.com/media/fcafd2_592d28e6bd6c4d589a15555ee4315e92~mv2.gif" alt="Coder GIF" width="640" height="360">
+  <img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF" width="640" height="360">
 </p>
 
 -----
