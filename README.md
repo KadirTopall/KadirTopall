@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 -----
-## Hi <img src="hi.gif" width="3%">, &nbsp;I'm [Muhammed Berk Önder!](https://berkmonder.github.io/about)
+## Hi <img src="hi.gif" width="3%">, &nbsp;I'm [Kadir Topal!](https://kadirtopall.github.io/about)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
