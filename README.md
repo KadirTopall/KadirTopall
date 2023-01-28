@@ -3,7 +3,7 @@
 
 **KadirTopall/KadirTopall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <p align="center">
   <img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF" width="640" height="360">
 </p>
 
 -----
-## Hi <img src="hi.gif" width="3%">, &nbsp;I'm [Kadir Topal!](https://kadirtopall.github.io/about)
+<!-- ## Hi <img src="hi.gif" width="3%">, &nbsp;I'm [Kadir Topal!](https://kadirtopall.github.io/about)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -82,4 +82,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-Last Edited on: 25/05/2022
+Last Edited on: 25/05/2022 -->
